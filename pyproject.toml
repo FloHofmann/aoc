@@ -9,4 +9,5 @@ dependencies = [
     "jupyter>=1.1.1",
     "numpy>=2.3.5",
     "pyperf>=2.9.0",
+    "scipy>=1.16.3",
 ]
